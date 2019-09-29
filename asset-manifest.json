@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anotherboringtodoapp/static/css/main.757b1877.chunk.css",
+    "main.js": "/anotherboringtodoapp/static/js/main.73adf9a1.chunk.js",
+    "main.js.map": "/anotherboringtodoapp/static/js/main.73adf9a1.chunk.js.map",
+    "runtime-main.js": "/anotherboringtodoapp/static/js/runtime-main.2bc37fae.js",
+    "runtime-main.js.map": "/anotherboringtodoapp/static/js/runtime-main.2bc37fae.js.map",
+    "static/js/2.71373447.chunk.js": "/anotherboringtodoapp/static/js/2.71373447.chunk.js",
+    "static/js/2.71373447.chunk.js.map": "/anotherboringtodoapp/static/js/2.71373447.chunk.js.map",
+    "index.html": "/anotherboringtodoapp/index.html",
+    "precache-manifest.e3f4a69275de594604883cc7ebe5d4d3.js": "/anotherboringtodoapp/precache-manifest.e3f4a69275de594604883cc7ebe5d4d3.js",
+    "service-worker.js": "/anotherboringtodoapp/service-worker.js",
+    "static/css/main.757b1877.chunk.css.map": "/anotherboringtodoapp/static/css/main.757b1877.chunk.css.map"
+  }
+}
