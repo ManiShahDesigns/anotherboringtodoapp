@@ -1,8 +1,6 @@
+Another boring todo app to get started with React .... It wasn't my first timing using React but I finally decided to push it to my GitHub. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
