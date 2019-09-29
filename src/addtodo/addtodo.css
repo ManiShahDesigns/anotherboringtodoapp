@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+.button {
+  padding: 1rem;
+  background-color: #191919;
+  border: none;
+  color: #cde3e7;
+  margin-left: 0.5rem;
+}
+
+.input {
+  padding: 1rem;
+}
+
+.button,
+.input {
+  font-family: "Poppins", sans-serif;
+}

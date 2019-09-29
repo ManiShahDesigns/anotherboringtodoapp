@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Mansalva&display=swap");
+
+h2 {
+  font-family: "Mansalva", cursive;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  font-size: 36px;
+}
